@@ -20,12 +20,7 @@
 
 | 類型 | 檔案名稱 | 說明 |
 |------|----------|------|
-| 🔧 CLI 工具專案 | `cli-tool.md` | 安裝方式、範例指令、功能介紹 |
-| 🌐 Web 應用專案 | `web-app.md` | 網站預覽、技術棧、部署說明 |
-| 🧪 機器學習專案 | `ml-project.md` | 資料集來源、模型結果、圖表呈現 |
-| 🧩 WordPress 插件 | `wordpress-plugin.md` | 外掛安裝、支援版本、Hook 一覽 |
-| 🧑‍🤝‍🧑 團隊專案模板 | `team-collab.md` | 加入貢獻指南、規範文件 |
-| 🌍 雙語模板（中英） | `bilingual-template.md` | 適合有多語使用者的專案 |
+| 🧩 Minecraft 插件 | `wordpress-plugin.md` | 這是麥塊的插件！ |
 
 > 🔜 更多模板正在製作中，歡迎點 Star ⭐ 追蹤更新！
 
