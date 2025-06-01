@@ -4,8 +4,9 @@
 
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20.x-green)
 ![Plugin API](https://img.shields.io/badge/API-Spigot%20%7C%20Paper-blue)
-![License](https://img.shields.io/github/license/你的帳號/插件名稱)
+![License](https://img.shields.io/github/license/510208/readme-templates)
 ![Downloads](https://img.shields.io/badge/下載次數-100%2B-orange)
+[![Static Badge](https://img.shields.io/badge/Author-SamHacker-white)](https://github.com/510208)
 
 ---
 
@@ -13,15 +14,27 @@
 
 這是一個用於 [Spigot / Paper] 平台的 Minecraft 插件，提供以下主要功能：
 
-- ✅ 功能一（如：自訂死亡訊息）
-- ✅ 功能二（如：快捷傳送指令）
-- ✅ 功能三（如：與 Discord 同步聊天）
+- ✅ 自訂死亡訊息
+- ✅ 快捷傳送指令
+- ✅ 與 Discord 同步聊天
 
 此插件特別適合：**生存服 / RPG / 建築伺服器** 等類型使用。
 
 ---
 
-## 🧰 安裝方法
+## 🧰 安裝教學
+
+###### 前置需求
+
+- **伺服器**：Paper-Spigot、Spigot、Purpur 與其他插件伺服器
+- **前置插件**：
+  - PlaceholderAPI
+  - Vault
+  - Never gonna give you up
+- **作業系統**：Debain 系列
+- **Java**：17 (任意發行版皆可)
+
+###### 安裝方式
 
 1. 將下載的 `.jar` 檔案放入伺服器的 `plugins` 資料夾
 2. 重新啟動伺服器
