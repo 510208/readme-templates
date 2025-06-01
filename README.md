@@ -67,7 +67,6 @@
 - 🔗 [SamHacker Blog](https://samhacker.xyz/)
 - 🐦 [Twitter / X](#)
 - 🧵 [Threads](#)
-- 🎮 [雲羽生存服](https://samhacker.xyz/mc)
 
 ---
 
