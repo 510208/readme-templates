@@ -22,6 +22,12 @@
 
 ---
 
+## 📄 授權條款
+
+本模組透過 MIT 授權條款發布，基於這個條款，你可以基於本條款**重製、修改、合併或出版發行**，但必須在修改後的專案中包含本授權條款、Copyright 等
+
+---
+
 ## 🧰 安裝教學
 
 ###### 前置需求
@@ -71,3 +77,13 @@ message-prefix: '&a[插件名稱] '
 enable-feature-x: true
 cooldown-seconds: 5
 ```
+
+---
+
+## 🙌 感謝名單
+
+感謝 SamHacker 提供這份模板、xxx 製作本專案、以及所有本專案依賴的元件們。因為有各位的協助，這款專案才能做得出來！
+
+<a href="https://github.com/510208/readme-templates/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=510208/readme-templates" />
+</a>
