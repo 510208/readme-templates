@@ -20,7 +20,7 @@
 
 | 類型 | 檔案名稱 | 說明 |
 |------|----------|------|
-| 🧩 Minecraft 插件 | `mc-plugin.md` | 這是麥塊的插件！ |
+| 🧩 Minecraft 插件 | [`mc-plugin.md`](/templates/mc-plugin.md) | 這是麥塊的插件！ |
 
 > 🔜 更多模板正在製作中，歡迎點 Star ⭐ 追蹤更新！
 
