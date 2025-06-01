@@ -2,6 +2,14 @@
 
 # **偉大的麥塊插件**
 
+<center>
+    
+</center>
+
+[🇹🇼 繁體中文](#) | [🇺🇸 英文](#) | [❓ 其他語言](#)
+
+</center>
+
 ![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20.x-green)
 ![Plugin API](https://img.shields.io/badge/API-Spigot%20%7C%20Paper-blue)
 ![License](https://img.shields.io/github/license/510208/readme-templates)
